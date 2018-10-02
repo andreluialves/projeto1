@@ -1,3 +1,4 @@
 <? php
-echo "Hello World my friend!";
+echo "Hello Wonderful World!";
+echo "Is this love";
 ?>
